@@ -1,4 +1,11 @@
 xxx
 
 
+<<<<<<< HEAD
 this file is for the test
+=======
+this is for the 2nd test
+
+
+edit the 6th for this files.
+>>>>>>> 5025bdb62e14b48868f2358a65147f7cc9653398
